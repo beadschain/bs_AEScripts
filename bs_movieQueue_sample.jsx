@@ -3,7 +3,7 @@
 bs_movieQueue_sample.jsx
 
 ムービーを、レンダーキューに追加するスクリプトです。
-使い方はこちらをご覧ください→ https://youtu.be/PIRwKZNJ8CQ
+使い方はこちらをご覧ください→ https://youtu.be/0UPplQYElFQ
 ※各ボタンの名前と、出力設定をカスタマイズしてご使用ください。
 
 for Adobe After Effects CC2014
